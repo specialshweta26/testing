@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Chitchat — AI Chat",
-  description: "A simple, thoughtful AI chat experience.",
+  title: "goodday — Fresh groceries, good days",
+  description: "Everyday goodness, picked with care and brought right to your doorstep.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
